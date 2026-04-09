@@ -1,0 +1,104 @@
+Click on “View responses” to see the Responses Summary. In your .txt file, write numbers
+1 through 5 to represent the five survey questions. For each survey question, CONSIDER
+the following:
+1. What conclusion can you reach about the responses to this question?
+2. Is the default summary or visualization helpful? How could it be improved?
+3. For questions with an “Other” option, where can you find the actual text of those
+responses? Do you notice anything that might be tricky about analyzing these?
+4. For questions calling for a written response, what challenges do you notice about
+finding trends or patterns in the answers provided?
+5. Now that you can see the responses, how might you recommend rephrasing this or
+question or the response options in a future survey?
+
+1. 	
+	5 minutes before class starts, the majority of the class intends to be ready to
+	take notes and have their equipment working properly. The visualization is 
+	definitely helpful in highlighting key common words. It gives a good idea on 
+	where everyone mutually agrees. It could be improved with having AI give a 
+	summary of everyone's response. I notice that it's not easy to identify a
+	collective answer when answers vary in length. It seems to require very specific
+	nitpicking and in doing so may remove the depth of individual's answers. I would
+	recommend turning this question into a multiple choice option and rephrasing the
+	question as "what is most vital for you to be ready to start on time?" with a final
+	"other:" option in case we might miss a common morning objective most people would have.
+	Lastly if possible, add a question after the multiple choice one asking for their reasoning.
+	That way we're able to easily identify key aspects for student readiness and have in-depth 
+	context to better understand their decisions.
+	
+2.
+	I can conclude with this question how many people have a second monitor for multi-tasking
+	and how many people may need a second monitor to increase efficiency. The visualization is
+	very helpful and I don't think it can be improved. It simplifies reading a list of yes' and
+	no's. To find answers to questions with an "other" option, we have to check the more details
+	option on the question and this can get tricky because if we don't check, we might exclude
+	someone with unique circumstances or if we do check, we have to figure out how their answer
+	fits with the rest of the responses. I would only recommend instead of asking if students
+	have a 'second' monitor connected, to ask if they have 'multiple' monitors connected to
+	avoid having someone clarify that they don't have a second monitor but multiple monitors
+	connected. If for some reason someone felt inclined to further clarify on the amount of
+	monitors they have, it can complicate our results.
+	
+3.
+	I can conclude the amount of people who have an external keyboard and mouse and those who
+	don't. The default visualization is helpful as it simplies having to read through multiple
+	of the same responses. We can find responses that used the "other" option in the more details
+	section, however any response here might just complicate our results analyzation. For this
+	option, I might recommend rephrasing it as "Do you have any accessibility needs for typing
+	or navigating your computer with the mouse cursor?". The reason why I would go about this
+	way is because mouse and keyboards are a standard and necessity for using a computer and
+	having external computer peripherals is more about optimizing work than it is about personal
+	help. With this question, we're able to identify individuals who may need additional help 
+	due to anything that may be limiting their ability to type or navigate their computer.
+
+4.
+	I can conclude the amount/percentage of students who plan to take notes on paper or
+	on computer. The default summary is helpful and simplifies reading through the same
+	responses. We can find the "other" responses in the more details tab and it can be
+	tricky analyzing these because they can ultimately fall into one of the other options
+	but since it is categorized differently, it can skew results. I would recommend
+	replacing the word "computer" with "electronic device" and include a "both" option.
+	This would actually eliminate/better categorize our "other" responses.
+	
+5.
+	I can conclude that many are interested in being prepared for the bootcamp and want
+	to know how they can be optimal in that regard. The default visualization is not helpful
+	at all. It pulls key words from their responses but those key words are only pieces of
+	a larger picture. Once again, it's very difficult to try and generalize responses by
+	identifying trends or patters as it removes a lot of substance from their responses.
+	This could be improved by using AI to provide a summary of the responses. Here we're
+	able to identify key aspects and keep a majority of the depth provided in the responses.
+	The question is great and I wouldn't change it as it provokes students to really think
+	about what is ahead of them and what they might know to be prepared.
+	
+6. Is there anything that surprised you about the survey responses?
+
+	I was mainly surprised by my peers' questions for the bootcamp. They really thought ahead
+	about things that didn't even cross my mind. It just reminds me how important collaboration
+	is as one person cannot think of everything alone.
+	
+7. Looking at the responses to questions 1 and 5, are there any ideas you might try to
+	include in your morning routine, or any questions that you are also curious about?
+	
+	I'm pretty consistent with my peers in regards to morning preparations however, I would
+	like to try to wake up even earlier to have more time available for my morning routine.
+	I'm curious to how my peers deal with minor time gaps of free time as I personally feel
+	awkward not using every second to do something productive.
+	
+8. Pretend you are the instructor. Is there anything you can learn from this survey to help
+	in how you approach teaching this class?
+	
+	This survey would help me format my teaching material in a way that would work with the
+	students learning style. For example, if I know that the majority of the class will
+	note-take with pen and paper, I'll probably only include key concise information 
+	on my slides and verbally explain rest so they can note down the very important things
+	to retain and still be caught up with the explanations. This survey does help allow 
+	the instructor to adjust their material/learning style to be more inclusive to everyone. 
+	
+9. Again, pretend you are the instructor. Do you think it was helpful or not helpful to
+	make this survey anonymous? Why or why not? (If you can see both pros and cons,
+	you may include both.)
+
+	It was 100% helpful to make this survey anonymous. By allowing anonymity, it allows students
+	to be more open about their opinions/struggles without feeling like they may possibly be
+	judged for the issues they may be experiencing. The con would be not being able to
+	identify students with very specific needs.
