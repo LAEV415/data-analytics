@@ -1,0 +1,60 @@
+1. 	Start by reviewing the data.gov home page. What is this?
+
+> 	It is the US government's open data webpage with over 400,000 datasets available
+	for review.
+	
+2. 	Go to Most Viewed Datasets. How many datasets are listed?
+
+>	402,381 datasets are listed.
+
+3. 	Find the Topic Category for Human Health. Review the range of data sources
+	available for this topic. Why do you think these were tagged with the Human Health
+	category?
+	
+>	These were tagged with the Human Health category because they are datasets that
+	have associations with our health either directly or indirectly such as 
+	birth rates or food/livestock that we consume.
+
+4.	Go to the Food Price Outlook. Review the catalog page for this dataset. How can you
+	navigate to additional datasets from the USDA?
+
+>	To navigate to additional datasets from the USDA, We can either click on their logo
+	or click on their name above the title of their dataset which looks to be between a
+	directory pathway.
+	
+5.	Go back to the data.gov home page. This time, click on Datasets by Organization.
+
+6.	Try searching for your city, county, and state. What organizations are returned?
+
+>	The organizations returned are "State of California", "OpenTopography", and
+	"City of San Francisco".
+	
+7.	Search for USDA, and click into the result. Within the USDA datasets, search for food
+	composition. Notice that the top three results are all datasets concerning nutrition
+	information. Try searching the USDA page for nutrition. How does that affect your
+	results?
+	
+>	Changing the terminology provided much more results compared to our initial search.
+	It's important we use the right keywords to get an optimal result.
+	
+8.	Go back to the results for food composition, and click on FoodData Central. Review
+	the catalog page for this data source, then click on the button for Visit Page. Take
+	some time to explore the FoodData Central website.
+	
+	a) 	Try searching for butter, or any of your favorite foods. What kind of results do you
+		get? What happens when you click on a result?
+		
+	>	When searching for butter, I get multiple options for different types of butter such as
+		salted butter or unsalted butter and more. When I select an option, I get nutritional facts
+		about the butter and it's composition and where the sampless were acquired to obtain
+		the information.
+	
+	b)	Go back to the home page. Find Foundation Foods, and click on Downloads. What
+		kind of data can you find on this page? How big are these files? Where can you find
+		more information on the data types available?
+		
+	>	The types of data we can find here are "Foundation Foods", "SR Legacy", "FNDDS", "Branded"
+		and "Supporting Data" as well. These files vary in size from hundreds of Kilobytes to a
+		couple Megabytes to a couple Gigabytes. We can find more information on the data types
+		available below on the same page by selecting supporting data files or lower where the
+		releases were made available individually in their own time.
