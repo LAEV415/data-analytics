@@ -1,54 +1,253 @@
 Category: All categories
 
-Region,"Milkshake: (4/10/26, 10:58 PM - 4/11/26, 10:58 PM)","Hamburger: (4/10/26, 10:58 PM - 4/11/26, 10:58 PM)","Breakup: (4/10/26, 10:58 PM - 4/11/26, 10:58 PM)"
-North Carolina,22%,65%,13%
-South Carolina,23%,65%,12%
-Arkansas,21%,68%,11%
-West Virginia,24%,60%,16%
-Indiana,23%,63%,14%
-Alabama,23%,65%,12%
-Tennessee,20%,69%,11%
-North Dakota,22%,67%,11%
-Utah,21%,66%,13%
-Kansas,20%,66%,14%
-Kentucky,20%,66%,14%
-Rhode Island,23%,61%,16%
-Virginia,20%,65%,15%
-Georgia,21%,67%,12%
-Missouri,20%,67%,13%
-Delaware,23%,61%,16%
-Arizona,22%,65%,13%
-Ohio,19%,67%,14%
-South Dakota,21%,67%,12%
-Illinois,19%,67%,14%
-Michigan,18%,69%,13%
-Nevada,19%,65%,16%
-California,20%,62%,18%
-Mississippi,19%,68%,13%
-Texas,19%,69%,12%
-Florida,19%,68%,13%
-Pennsylvania,20%,66%,14%
-Idaho,19%,67%,14%
-Connecticut,20%,65%,15%
-Oklahoma,18%,70%,12%
-Nebraska,18%,68%,14%
-New Jersey,20%,64%,16%
-Colorado,19%,66%,15%
-Wisconsin,17%,70%,13%
-Louisiana,18%,69%,13%
-Oregon,18%,66%,16%
-Maryland,20%,63%,17%
-District of Columbia,17%,64%,19%
-Washington,17%,66%,17%
-New Mexico,20%,64%,16%
-Massachusetts,19%,63%,18%
-Minnesota,17%,67%,16%
-Iowa,15%,73%,12%
-New York,16%,68%,16%
-Alaska,15%,69%,16%
-Wyoming,17%,69%,14%
-Maine,16%,69%,15%
-New Hampshire,15%,66%,19%
-Montana,14%,72%,14%
-Hawaii,13%,69%,18%
-Vermont,14%,68%,18%
+Country,Milkshake: (2/1/24 - 2/28/25),Breakup: (2/1/24 - 2/28/25),Hamburger: (2/1/24 - 2/28/25)
+Equatorial Guinea,,,
+Costa Rica,47%,4%,49%
+Nicaragua,57%,4%,39%
+United States,22%,14%,64%
+Panama,43%,4%,53%
+Palau,,,
+Cook Islands,,,
+Guam,,,
+Australia,21%,15%,64%
+Gibraltar,,,
+Curaçao,,,
+Afghanistan,,,
+Micronesia,,,
+United Kingdom,22%,14%,64%
+Spain,23%,3%,74%
+New Zealand,17%,13%,70%
+Cape Verde,,,
+Jersey,,,
+Barbados,,,
+Andorra,,,
+Ecuador,38%,3%,59%
+Northern Mariana Islands,,,
+Cuba,,,
+Guernsey,,,
+Colombia,27%,2%,71%
+Guyana,,,
+South Africa,23%,17%,60%
+Isle of Man,,,
+Maldives,,,
+Antigua & Barbuda,,,
+Canada,14%,14%,72%
+Puerto Rico,26%,11%,63%
+British Virgin Islands,,,
+U.S. Virgin Islands,,,
+Cayman Islands,,,
+Belize,,,
+St. Vincent & Grenadines,,,
+Dominica,,,
+Aruba,,,
+Malta,,,
+Bahamas,,,
+Chile,22%,2%,76%
+Netherlands,21%,8%,71%
+St. Lucia,,,
+Caribbean Netherlands,,,
+Ireland,16%,18%,66%
+Iran,30%,3%,67%
+Jamaica,,,
+Bermuda,,,
+Portugal,23%,5%,72%
+Grenada,,,
+Singapore,16%,22%,62%
+Faroe Islands,,,
+Sint Maarten,,,
+Hungary,18%,4%,78%
+Samoa,,,
+Norway,13%,12%,75%
+Venezuela,31%,3%,66%
+Pakistan,21%,10%,69%
+Brazil,25%,1%,74%
+Trinidad & Tobago,,,
+Paraguay,,,
+Denmark,14%,7%,79%
+Turks & Caicos Islands,,,
+Philippines,16%,24%,60%
+Liechtenstein,,,
+United Arab Emirates,18%,12%,70%
+Seychelles,,,
+Sweden,13%,7%,80%
+American Samoa,,,
+Romania,20%,22%,58%
+Namibia,,,
+St. Kitts & Nevis,,,
+Dominican Republic,33%,6%,61%
+Angola,,,
+Belgium,17%,8%,75%
+Iceland,,,
+Lebanon,,,
+Poland,14%,14%,72%
+Bhutan,,,
+Peru,25%,5%,70%
+Greenland,,,
+St. Barthélemy,,,
+St. Helena,,,
+Germany,9%,22%,69%
+Botswana,,,
+Mexico,17%,4%,79%
+Uruguay,,,
+Brunei,,,
+Zimbabwe,,,
+Lesotho,,,
+Guatemala,21%,4%,75%
+Bolivia,23%,4%,73%
+Serbia,24%,9%,67%
+Honduras,,,
+New Caledonia,,,
+Bahrain,,,
+Switzerland,9%,15%,76%
+Hong Kong,11%,45%,44%
+Fiji,,,
+Kuwait,,,
+El Salvador,,,
+Lithuania,,,
+Qatar,,,
+Suriname,,,
+Mauritius,,,
+Mozambique,,,
+Eswatini,,,
+Guadeloupe,,,
+Austria,8%,16%,76%
+India,27%,34%,39%
+Luxembourg,,,
+Cyprus,,,
+Martinique,,,
+Bosnia & Herzegovina,,,
+Montenegro,,,
+Argentina,11%,2%,87%
+Ghana,,,
+Malaysia,10%,17%,73%
+China,,,
+Macao,,,
+Papua New Guinea,,,
+Croatia,,,
+French Guiana,,,
+Taiwan,6%,42%,52%
+Türkiye,13%,16%,71%
+Réunion,,,
+Zambia,,,
+Somalia,,,
+North Macedonia,,,
+Kenya,,,
+Finland,9%,10%,81%
+Czechia,9%,13%,78%
+Kosovo,,,
+French Polynesia,,,
+Bulgaria,,,
+Sri Lanka,,,
+Malawi,,,
+Madagascar,,,
+Nigeria,18%,41%,41%
+Mongolia,,,
+Moldova,,,
+Oman,,,
+Italy,13%,3%,84%
+Japan,9%,5%,86%
+Albania,,,
+Belarus,,,
+Jordan,,,
+Laos,,,
+Israel,4%,21%,75%
+Gambia,,,
+South Korea,6%,12%,82%
+Russia,15%,14%,71%
+Rwanda,,,
+Slovenia,,,
+Palestine,,,
+France,8%,5%,87%
+Uganda,,,
+Djibouti,,,
+Saudi Arabia,7%,3%,90%
+Cambodia,,,
+Ethiopia,,,
+Slovakia,,,
+Myanmar (Burma),,,
+Haiti,,,
+Nepal,,,
+Ukraine,15%,7%,78%
+Latvia,,,
+Estonia,,,
+Liberia,,,
+Togo,,,
+Egypt,8%,3%,89%
+Georgia,,,
+Libya,,,
+Tanzania,,,
+Bangladesh,17%,32%,51%
+Mauritania,,,
+Kyrgyzstan,,,
+Turkmenistan,,,
+Greece,4%,25%,71%
+Azerbaijan,,,
+Kazakhstan,,,
+Iraq,,,
+Tunisia,,,
+Burundi,,,
+Sierra Leone,,,
+Armenia,,,
+Morocco,,,
+Thailand,11%,10%,79%
+Indonesia,11%,17%,72%
+Senegal,,,
+Niger,,,
+Cameroon,,,
+Congo - Brazzaville,,,
+Benin,,,
+Vietnam,4%,74%,22%
+Syria,,,
+South Sudan,,,
+Gabon,,,
+Timor-Leste,,,
+Tajikistan,,,
+Côte d’Ivoire,,,
+Uzbekistan,,,
+Congo - Kinshasa,,,
+Algeria,,,
+Sudan,,,
+Guinea,,,
+Burkina Faso,,,
+Yemen,,,
+Mali,,,
+Nauru,,,
+Central African Republic,,,
+Christmas Island,,,
+São Tomé & Príncipe,,,
+Comoros,,,
+St. Pierre & Miquelon,,,
+Chad,,,
+San Marino,,,
+Solomon Islands,,,
+Svalbard & Jan Mayen,,,
+Tokelau,,,
+South Georgia & South Sandwich Islands,,,
+St. Martin,,,
+Tonga,,,
+French Southern Territories,,,
+Monaco,,,
+British Indian Ocean Territory,,,
+Tuvalu,,,
+Marshall Islands,,,
+Montserrat,,,
+Eritrea,,,
+Heard & McDonald Islands,,,
+U.S. Outlying Islands,,,
+Western Sahara,,,
+Antarctica,,,
+North Korea,,,
+Vatican City,,,
+Mayotte,,,
+Cocos (Keeling) Islands,,,
+Guinea-Bissau,,,
+Åland Islands,,,
+Norfolk Island,,,
+Vanuatu,,,
+Wallis & Futuna,,,
+Anguilla,,,
+Bouvet Island,,,
+Pitcairn Islands,,,
+Niue,,,
+Falkland Islands (Islas Malvinas),,,
+Kiribati,,,
