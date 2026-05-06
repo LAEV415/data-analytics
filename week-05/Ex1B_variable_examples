@@ -1,0 +1,36 @@
+# Declaring variables
+cust_id = 7
+cust_name = 'James Bond'# Could separate into first and last name
+cust_gender = "male"    # depending on scale of database, could use num values to represent genders
+cust_bday = '13/04/68'  # Wrote this as a string but could separate into individual int variables
+cust_dl_id = "AGEN007"
+cust_auto_policy = 77777
+
+
+yuu_name = 'Luis Angel Espinosa Villicana'
+city = "San Francisco"
+state = "CA"
+
+# a) What is the full list of reserved words that can’t be used for variable names?
+
+# False	def	if	raise
+# None	del	import	return
+# True	elif	in	try
+# and	else	is	while
+# as	except	lambda	with
+# assert	finally	nonlocal	yield
+# break	for	not
+# class	form	or
+# continue	global	pass
+
+# b) Pick 5 of these words and review the explanation for how it is used as a keyword in
+# Python. Add these 5 definitions as # comments to your exercise document. Put ^^
+# around any terms that you are not familiar with.
+
+# ^raise^ - The raise statement is used to raise an error. These errors are visible in the 
+#           traceback and they cancel the execution of the program if not handled properly.
+# ^lambda^ -  A lambda function in Python is an anonymous function. It can take any number of 
+#             arguments but only have a single expression.
+# ^assert^ - The assert statement in Python is used for debugging.
+# ^non local^ - This keyword is used in functions inside functions to create anonymous functions.
+# yield - The yield function ends a function and returns an iterator.
