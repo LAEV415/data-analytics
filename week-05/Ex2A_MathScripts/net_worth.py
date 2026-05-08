@@ -52,3 +52,4 @@ print(f'Your total debts are {debt}')
 # Displaying networth
 print(f'Your net worth is {networth}')
 
+# Unexpectedly Completed Lab 4 beforehand (using f-strings for outputs)
