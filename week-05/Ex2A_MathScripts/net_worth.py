@@ -11,7 +11,7 @@
 # In order to calculate our networth, we must add up all our assets and subtract it by our debt
 #         i.e asset_values - debt_values = networth
 
-# c) Now create the script in a file named net_worth.py
+#      c) Now create the script in a file named net_worth.py
 
 # While creating script, realized it's better to focus on overall assets and debt
 # rather than a timed expense (i.e monthly payments and such)
@@ -37,6 +37,13 @@ debt = credit_cards + car_loan + home_loan + stu_loan
 
 # Calculating networth
 networth = assets - debt
+
+#      d) Your displayed output should be formulated as follows (3 print statements):
+#      Your total assets are [number]
+#      Page 19 of 43
+#      Year Up United Data Analyst Training Academy Week 5
+#      Your total debts are [number]
+#      Your net worth is [number]
 
 # Displaying total assets
 print(f'Your total assets are {assets}') 
