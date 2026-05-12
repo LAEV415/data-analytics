@@ -36,3 +36,5 @@ elif (dept_num == 20):
 else:
     print('Sorry that department number does not exist')
 
+# Once your script is working, rewrite it using a match/case statement instead of
+# if/elif/else. Save this version as dept_converter_v2.py
